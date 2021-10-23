@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCompose</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="re_password">repeat password</string>
+    <string name="register">Register</string>
+    <string name="do_not_have_account">Create New Account?</string>
+</resources>
